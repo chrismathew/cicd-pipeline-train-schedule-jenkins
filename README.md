@@ -1,4 +1,4 @@
-# cicd-pipeline-train-schedule-jenkins on nov 3rd 2021
+# cicd-pipeline-train-schedule-jenkins on nov 3rd 2021- changed from push to everything in webhook
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
